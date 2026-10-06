@@ -13,28 +13,10 @@ expo-env.d.ts
 .kotlin/
 *.orig.*
 *.jks
-*.keystore
 *.p8
 *.p12
 *.key
 *.mobileprovision
-key.properties
-keystore.properties
-local.properties
-
-# Credentials and local secrets
-/.env*
-!/.env.example
-!/.env.*.example
-/.npmrc
-!/.npmrc.example
-credentials.json
-**/credentials.json
-*service-account*.json
-*serviceaccount*.json
-google-services.json
-GoogleService-Info.plist
-.eas/
 
 # Metro
 .metro-health-check*
@@ -57,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Local agent tooling (not needed for EAS builds)
+.agents/
+.claude/
+.windsurf/
+.windsurfrules
