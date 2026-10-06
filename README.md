@@ -2,7 +2,7 @@
 
 ### How long will you risk it?
 
-A fast-paced arcade survival game built with **React Native**, **Expo**, and **TypeScript**. Pilot a blue orb through an arena of incoming enemies, survive as long as possible, and make split-second decisions to bank big scores.
+A fast-paced arcade survival game built with **React Native**, **Expo**, and **TypeScript**. Pilot a blue orb through an arena of incoming enemies, survive as long as possible, and make split-second decisions to maximize your score. Bank your points or risk it all for a higher multiplier—how long will you last?
 
 ---
 
@@ -21,6 +21,16 @@ A fast-paced arcade survival game built with **React Native**, **Expo**, and **T
       <td align="center"><strong>Game Over</strong></td>
     </tr>
   </table>
+</div>
+
+---
+
+##  📱 Download
+
+<div align="center">
+
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK-brightgreen?style=for-the-badge&logo=android)](../../releases/latest)
+
 </div>
 
 ---
