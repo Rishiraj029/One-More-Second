@@ -6,7 +6,7 @@ A fast-paced arcade survival game built with **React Native**, **Expo**, and **T
 
 ---
 
-## 📱 Gameplay
+##  Gameplay
 
 <div align="center">
   <table>
@@ -25,7 +25,7 @@ A fast-paced arcade survival game built with **React Native**, **Expo**, and **T
 
 ---
 
-## 🎮 How It Works
+##  How It Works
 
 - 🔵 **Move** your orb around the arena with intuitive touch controls.
 - 🔴 **Avoid** incoming red enemies that pursue and intercept your position.
@@ -37,7 +37,7 @@ The longer you risk, the faster enemies spawn and move—but the higher your sco
 
 ---
 
-## 🎯 How to Play
+##  How to Play
 
 1. Tap **PLAY** on the home screen to start.
 2. Drag your orb to dodge enemies.
@@ -48,7 +48,7 @@ The longer you risk, the faster enemies spawn and move—but the higher your sco
 
 ---
 
-## 🧠 Engineering Highlights
+##  Engineering Highlights
 
 - **Real-time 60 FPS game loop** using `requestAnimationFrame` with smooth frame-throttled rendering (15 FPS UI updates to balance performance).
 - **Mutable refs-based architecture** — game state lives in refs for instant reads/writes without React re-render overhead.
@@ -63,7 +63,7 @@ The longer you risk, the faster enemies spawn and move—but the higher your sco
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 | --- | --- |
@@ -75,7 +75,7 @@ The longer you risk, the faster enemies spawn and move—but the higher your sco
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ```bash
 # Clone the repository
@@ -93,7 +93,7 @@ Scan the QR code with the Expo Go app on your phone, or press `a` for Android / 
 
 ---
 
-## 📦 Build & Deploy
+##  Build & Deploy
 
 This project uses **EAS** for cloud building and deployment:
 
@@ -109,7 +109,7 @@ npx eas-cli@latest submit --platform android
 
 ---
 
-## 🔄 What's Next?
+##  What's Next?
 
 - **Leaderboards** — online high-score persistence and global rankings.
 - **Sound & haptics** — audio feedback and vibration cues for near-misses and milestones.
@@ -120,7 +120,7 @@ npx eas-cli@latest submit --platform android
 
 ---
 
-## 📄 License
+##  License
 
 MIT — Open source for learning and personal use.
 
