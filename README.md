@@ -2,18 +2,26 @@
 
 ### How long will you risk it?
 
-A fast-paced arcade survival game built with **React Native**, **Expo**, and **TypeScript**. Pilot a blue orb through an arena of incoming enemies, survive as long as possible, and make split-second decisions: secure your score or risk it all for a bigger multiplier.
+A fast-paced arcade survival game built with **React Native**, **Expo**, and **TypeScript**. Pilot a blue orb through an arena of incoming enemies, survive as long as possible, and make split-second decisions to bank big scores.
 
 ---
 
 ## 📱 Gameplay
 
-| Landing Screen | Gameplay |
-| --- | --- |
-| ![Landing Screen](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/19ab04bc-8cff-4115-8a47-db1a82ddf1d9" />
-) | ![Gameplay](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/95bb58ff-18cb-4052-babd-7d3c5f2e6fb4" />
-) |  ![GameOver](<img width="720" height="1600" alt="WhatsApp Image 2026-10-06 at 2 29 40 PM" src="https://github.com/user-attachments/assets/d803ab97-7a78-4102-8ece-bdde0a4c6747" />
-)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/19ab04bc-8cff-4115-8a47-db1a82ddf1d9" width="240" alt="Landing Screen" /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/95bb58ff-18cb-4052-babd-7d3c5f2e6fb4" width="240" alt="Gameplay" /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/d803ab97-7a78-4102-8ece-bdde0a4c6747" width="240" alt="Game Over" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Landing Screen</strong></td>
+      <td align="center"><strong>Gameplay</strong></td>
+      <td align="center"><strong>Game Over</strong></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
