@@ -12,7 +12,8 @@ A fast-paced arcade survival game built with **React Native**, **Expo**, and **T
 | --- | --- |
 | ![Landing Screen](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/19ab04bc-8cff-4115-8a47-db1a82ddf1d9" />
 ) | ![Gameplay](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/95bb58ff-18cb-4052-babd-7d3c5f2e6fb4" />
-) |
+) |  ![GameOver](<img width="720" height="1600" alt="WhatsApp Image 2026-10-06 at 2 29 40 PM" src="https://github.com/user-attachments/assets/d803ab97-7a78-4102-8ece-bdde0a4c6747" />
+)
 
 ---
 
